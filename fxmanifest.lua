@@ -19,3 +19,9 @@ client_scripts {
 server_scripts {
     'server.lua'  
 }
+
+dependencies {
+    'oxmysql',   
+    'ox_lib', 
+    'es_extended',  
+}
